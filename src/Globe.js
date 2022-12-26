@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+// import React, { useState, useEffect } from 'react';
 const TagCloud = require('TagCloud');
 export const Globe = () => {
 
