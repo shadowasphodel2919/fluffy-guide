@@ -1,23 +1,20 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
-
+import { Globe } from './Globe';
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h2>Taha Jamal</h2>
       </header>
+      <section className='banner'>
+        <Globe/>
+      </section>
+      <section className='menu'>
+        <div className='sideTab'>About Me</div>
+        <div className='sideTab'>Projects</div>
+        <div className='sideTab'>Work</div>
+      </section>
     </div>
   );
 }
