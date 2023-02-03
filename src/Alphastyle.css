@@ -1,0 +1,6732 @@
+.a svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .a svg .a-start-a1,
+  .a svg .a-follow-a1 {
+    stroke-dashoffset: 97.65;
+    stroke-dasharray: 97.65;
+    -webkit-animation: a-a1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: a-a1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .a svg .a-start-a1 {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .a svg .a-follow-a1 {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .a svg .a-start-a2,
+  .a svg .a-follow-a2 {
+    stroke-dashoffset: 361;
+    stroke-dasharray: 361;
+    -webkit-animation: a-a2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: a-a2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .a svg .a-start-a2 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .a svg .a-follow-a2 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .a svg .a-start-b1,
+  .a svg .a-follow-b1 {
+    stroke-dashoffset: 325.59;
+    stroke-dasharray: 325.59;
+    -webkit-animation: a-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: a-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .a svg .a-start-b1 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .a svg .a-follow-b1 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  .a svg .a-start-b2,
+  .a svg .a-follow-b2,
+  .a svg .a-start-b3,
+  .a svg .a-follow-b3 {
+    stroke-dashoffset: 165;
+    stroke-dasharray: 165;
+    -webkit-animation: a-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: a-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .a svg .a-start-b4,
+  .a svg .a-follow-b4 {
+    stroke-dashoffset: 144.7;
+    stroke-dasharray: 144.7;
+    -webkit-animation: a-b4 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: a-b4 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .a svg .a-start-b5,
+  .a svg .a-follow-b5 {
+    stroke-dashoffset: 283.72;
+    stroke-dasharray: 283.72;
+    -webkit-animation: a-b5 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: a-b5 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .a svg .a-start-b6,
+  .a svg .a-follow-b6 {
+    stroke-dashoffset: 157.82;
+    stroke-dasharray: 157.82;
+    -webkit-animation: a-b6 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: a-b6 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .a svg .a-start-b2 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .a svg .a-follow-b2 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  .a svg .a-start-b3,
+  .a svg .a-start-b4,
+  .a svg .a-start-b5,
+  .a svg .a-start-b6 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1050ms;
+            animation-delay: 1050ms;
+  }
+  .a svg .a-follow-b3,
+  .a svg .a-follow-b4,
+  .a svg .a-follow-b5,
+  .a svg .a-follow-b6 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .a svg .a-start-b7,
+  .a svg .a-follow-b7 {
+    stroke-dashoffset: 143.42;
+    stroke-dasharray: 143.42;
+    -webkit-animation: a-b7 ease-out forwards;
+            animation: a-b7 ease-out forwards;
+  }
+  .a svg .a-start-b7 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1300ms;
+            animation-delay: 1300ms;
+  }
+  .a svg .a-follow-b7 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1150ms;
+            animation-delay: 1150ms;
+  }
+  .a svg .a-start-c1,
+  .a svg .a-follow-c1 {
+    stroke-dashoffset: 91.92;
+    stroke-dasharray: 91.92;
+    -webkit-animation: a-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: a-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .a svg .a-start-c1 {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 1500ms;
+            animation-delay: 1500ms;
+  }
+  .a svg .a-follow-c1 {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 1350ms;
+            animation-delay: 1350ms;
+  }
+  .a svg .a-start-c2,
+  .a svg .a-follow-c2 {
+    stroke-dashoffset: 362.99;
+    stroke-dasharray: 362.99;
+    -webkit-animation: a-c2 cubic-bezier(0, 0.47, 0.2, 0.99) forwards;
+            animation: a-c2 cubic-bezier(0, 0.47, 0.2, 0.99) forwards;
+  }
+  .a svg .a-start-c2 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1500ms;
+            animation-delay: 1500ms;
+  }
+  .a svg .a-follow-c2 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1350ms;
+            animation-delay: 1350ms;
+  }
+  
+  @-webkit-keyframes a-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 362.99;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes a-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 362.99;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes a-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 91.92;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes a-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 91.92;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes a-b7 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -143.42;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes a-b7 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -143.42;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes a-b6 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 157.82;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes a-b6 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 157.82;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes a-b5 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 283.72;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes a-b5 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 283.72;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes a-b4 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 144.7;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes a-b4 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 144.7;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes a-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 165;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes a-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 165;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes a-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -325.59;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes a-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -325.59;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes a-a2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 361;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes a-a2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 361;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes a-a1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 97.65;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes a-a1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 97.65;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .b svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .b svg .b-start-a,
+  .b svg .b-follow-a,
+  .b svg .b-start-d,
+  .b svg .b-follow-d {
+    stroke-dashoffset: 446.77;
+    stroke-dasharray: 446.77;
+    -webkit-animation: b-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: b-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .b svg .b-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .b svg .b-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .b svg .b-start-d {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1400ms;
+            animation-delay: 1400ms;
+  }
+  .b svg .b-follow-d {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1250ms;
+            animation-delay: 1250ms;
+  }
+  .b svg .b-start-b1,
+  .b svg .b-follow-b1 {
+    stroke-dashoffset: 287.67;
+    stroke-dasharray: 287.67;
+    -webkit-animation: b-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: b-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .b svg .b-start-b2,
+  .b svg .b-follow-b2 {
+    stroke-dashoffset: 194.74;
+    stroke-dasharray: 194.74;
+    -webkit-animation: b-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: b-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .b svg .b-start-b1,
+  .b svg .b-start-b2 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .b svg .b-follow-b1,
+  .b svg .b-follow-b2 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .b svg .b-start-c1,
+  .b svg .b-follow-c1 {
+    stroke-dashoffset: 182.29;
+    stroke-dasharray: 182.29;
+    -webkit-animation: b-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: b-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .b svg .b-start-c1 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .b svg .b-follow-c1 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  .b svg .b-start-c2,
+  .b svg .b-follow-c2 {
+    stroke-dashoffset: 186.09;
+    stroke-dasharray: 186.09;
+    -webkit-animation: b-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: b-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .b svg .b-start-c2 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1150ms;
+            animation-delay: 1150ms;
+  }
+  .b svg .b-follow-c2 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  
+  @-webkit-keyframes b-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 186.09;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes b-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 186.09;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes b-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 182.29;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes b-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 182.29;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes b-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 194.74;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes b-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 194.74;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes b-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -287.67;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes b-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -287.67;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes b-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -446.77;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes b-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -446.77;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .c svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .c svg .c-start-a,
+  .c svg .c-follow-a,
+  .c svg .c-start-d,
+  .c svg .c-follow-d {
+    stroke-dashoffset: 447.53;
+    stroke-dasharray: 447.53;
+    -webkit-animation: c-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: c-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .c svg .c-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .c svg .c-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .c svg .c-start-d {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1150ms;
+            animation-delay: 1150ms;
+  }
+  .c svg .c-follow-d {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1000ms;
+            animation-delay: 1000ms;
+  }
+  .c svg .c-start-b,
+  .c svg .c-follow-b {
+    stroke-dashoffset: 484.66;
+    stroke-dasharray: 484.66;
+    -webkit-animation: c-b cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: c-b cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .c svg .c-start-b {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .c svg .c-follow-b {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .c svg .c-start-c1,
+  .c svg .c-follow-c1 {
+    stroke-dashoffset: 146.32;
+    stroke-dasharray: 146.32;
+    -webkit-animation: c-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: c-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .c svg .c-start-c2,
+  .c svg .c-follow-c2 {
+    stroke-dashoffset: 158.35;
+    stroke-dasharray: 158.35;
+    -webkit-animation: c-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: c-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .c svg .c-start-c3,
+  .c svg .c-follow-c3 {
+    stroke-dashoffset: 170.07;
+    stroke-dasharray: 170.07;
+    -webkit-animation: c-c3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: c-c3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .c svg [class^=c-start-c] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .c svg [class^=c-follow-c] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  
+  @-webkit-keyframes c-c3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 170.07;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes c-c3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 170.07;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes c-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 158.35;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes c-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 158.35;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes c-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 146.32;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes c-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 146.32;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes c-b {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 484.67;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes c-b {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 484.67;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes c-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 168.49;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes c-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 168.49;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .d svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .d svg .d-start-a,
+  .d svg .d-follow-a,
+  .d svg .d-start-d,
+  .d svg .d-follow-d {
+    stroke-dashoffset: 437.37;
+    stroke-dasharray: 437.37;
+    -webkit-animation: d-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: d-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .d svg .d-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .d svg .d-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .d svg .d-start-d {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1150ms;
+            animation-delay: 1150ms;
+  }
+  .d svg .d-follow-d {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1000ms;
+            animation-delay: 1000ms;
+  }
+  .d svg .d-start-b1,
+  .d svg .d-follow-b1 {
+    stroke-dashoffset: 286.67;
+    stroke-dasharray: 286.67;
+    -webkit-animation: d-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: d-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .d svg .d-start-b2,
+  .d svg .d-follow-b2 {
+    stroke-dashoffset: 398.03;
+    stroke-dasharray: 398.03;
+    -webkit-animation: d-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: d-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .d svg .d-start-b1,
+  .d svg .d-start-b2 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .d svg .d-follow-b1,
+  .d svg .d-follow-b2 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .d svg .d-start-c,
+  .d svg .d-follow-c {
+    stroke-dashoffset: 256.57;
+    stroke-dasharray: 256.57;
+    -webkit-animation: d-c cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: d-c cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .d svg .d-start-c {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .d svg .d-follow-c {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  
+  @-webkit-keyframes d-c {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 256.57;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes d-c {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 256.57;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes d-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -398.03;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes d-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -398.03;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes d-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 286.67;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes d-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 286.67;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes d-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -437.37;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes d-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -437.37;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .e svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .e svg .e-start-a,
+  .e svg .e-follow-a,
+  .e svg .e-start-c,
+  .e svg .e-follow-c {
+    stroke-dashoffset: 542.64;
+    stroke-dasharray: 542.64;
+    -webkit-animation: e-a1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: e-a1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .e svg .e-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .e svg .e-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .e svg .e-start-c {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1400ms;
+            animation-delay: 1400ms;
+  }
+  .e svg .e-follow-c {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1250ms;
+            animation-delay: 1250ms;
+  }
+  .e svg .e-start-b1,
+  .e svg .e-follow-b1 {
+    stroke-dashoffset: 259.82;
+    stroke-dasharray: 259.82;
+    -webkit-animation: e-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: e-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .e svg .e-start-b2,
+  .e svg .e-follow-b2 {
+    stroke-dashoffset: 311.79;
+    stroke-dasharray: 311.79;
+    -webkit-animation: e-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: e-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .e svg .e-start-b3,
+  .e svg .e-follow-b3 {
+    stroke-dashoffset: 140.22;
+    stroke-dasharray: 140.22;
+    -webkit-animation: e-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: e-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .e svg .e-start-b4,
+  .e svg .e-follow-b4 {
+    stroke-dashoffset: 178.91;
+    stroke-dasharray: 178.91;
+    -webkit-animation: e-b4 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: e-b4 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .e svg .e-start-b5,
+  .e svg .e-follow-b5 {
+    stroke-dashoffset: 178.91;
+    stroke-dasharray: 178.91;
+    -webkit-animation: e-b5 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: e-b5 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .e svg .e-start-b6,
+  .e svg .e-follow-b6 {
+    stroke-dashoffset: 207.82;
+    stroke-dasharray: 207.82;
+    -webkit-animation: e-b6 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: e-b6 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .e svg .e-start-b7,
+  .e svg .e-follow-b7 {
+    stroke-dashoffset: 144.9;
+    stroke-dasharray: 144.9;
+    -webkit-animation: e-b7 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: e-b7 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .e svg polygon[class^=e-start-b] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+  }
+  .e svg polygon[class^=e-follow-b] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+  }
+  .e svg polygon[class^=e-start-b]:nth-child(n+2) {
+    -webkit-animation-delay: 1150ms;
+            animation-delay: 1150ms;
+  }
+  .e svg polygon[class^=e-follow-b]:nth-child(n+2) {
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .e svg .e-start-b1,
+  .e svg .e-start-b2 {
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .e svg .e-follow-b1,
+  .e svg .e-follow-b2 {
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  
+  @-webkit-keyframes e-b7 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 144.9;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes e-b7 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 144.9;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes e-b6 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 207.82;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes e-b6 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 207.82;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes e-b5 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 139;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes e-b5 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 139;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes e-b4 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -178.91;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes e-b4 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -178.91;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes e-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 140.22;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes e-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 140.22;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes e-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 311.79;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes e-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 311.79;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes e-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -259.82;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes e-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -259.82;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes e-a1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 542.63;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes e-a1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 542.63;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .f svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .f svg .f-start-a,
+  .f svg .f-follow-a {
+    stroke-dashoffset: 438.54;
+    stroke-dasharray: 438.54;
+    -webkit-animation: f-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: f-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .f svg .f-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .f svg .f-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .f svg .f-start-b1,
+  .f svg .f-follow-b1 {
+    stroke-dashoffset: 310.46;
+    stroke-dasharray: 310.46;
+    -webkit-animation: f-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: f-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .f svg .f-start-b2,
+  .f svg .f-follow-b2 {
+    stroke-dashoffset: 259.87;
+    stroke-dasharray: 259.87;
+    -webkit-animation: f-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: f-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .f svg .f-start-b1,
+  .f svg .f-start-b2 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .f svg .f-follow-b1,
+  .f svg .f-follow-b2 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .f svg .f-start-b3,
+  .f svg .f-follow-b3,
+  .f svg .f-start-b5,
+  .f svg .f-follow-b5 {
+    stroke-dashoffset: 154.83;
+    stroke-dasharray: 154.83;
+    -webkit-animation: f-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: f-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .f svg .f-start-b4,
+  .f svg .f-follow-b4 {
+    stroke-dashoffset: 140.35;
+    stroke-dasharray: 140.35;
+    -webkit-animation: f-b4 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: f-b4 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .f svg .f-start-b6,
+  .f svg .f-follow-b6 {
+    stroke-dashoffset: 137.33;
+    stroke-dasharray: 137.33;
+    -webkit-animation: f-b6 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: f-b6 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .f svg .f-start-b7,
+  .f svg .f-follow-b7 {
+    stroke-dashoffset: 179.24;
+    stroke-dasharray: 179.24;
+    -webkit-animation: f-b7 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: f-b7 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .f svg .f-start-b8,
+  .f svg .f-follow-b8 {
+    stroke-dashoffset: 178;
+    stroke-dasharray: 178;
+    -webkit-animation: f-b7 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: f-b7 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .f svg polygon[class^=f-start-b]:nth-child(n+2) {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .f svg polygon[class^=f-follow-b]:nth-child(n+2) {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  .f svg .f-start-c,
+  .f svg .f-follow-c {
+    stroke-dashoffset: 440.09;
+    stroke-dasharray: 440.09;
+    -webkit-animation: f-c cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: f-c cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .f svg .f-start-c {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1200ms;
+            animation-delay: 1200ms;
+  }
+  .f svg .f-follow-c {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1050ms;
+            animation-delay: 1050ms;
+  }
+  
+  @-webkit-keyframes f-c {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 440.09;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes f-c {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 440.09;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes f-b7 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 179.24;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes f-b7 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 179.24;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes f-b6 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 137.33;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes f-b6 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 137.33;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes f-b4 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 140.35;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes f-b4 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 140.35;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes f-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 154.83;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes f-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 154.83;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes f-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -259.87;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes f-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -259.87;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes f-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -310.46;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes f-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -310.46;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes f-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 438.51;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes f-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 438.51;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .g svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .g svg .g-start-a1,
+  .g svg .g-follow-a1 {
+    stroke-dashoffset: 465.83;
+    stroke-dasharray: 465.83;
+    -webkit-animation: g-a1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: g-a1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .g svg .g-start-a1 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .g svg .g-follow-a1 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .g svg .g-start-a2,
+  .g svg .g-follow-a2,
+  .g svg .g-start-c,
+  .g svg .g-follow-c {
+    stroke-dashoffset: 562.66;
+    stroke-dasharray: 562.66;
+    -webkit-animation: g-a2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: g-a2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .g svg .g-start-a2 {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .g svg .g-follow-a2 {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .g svg .g-start-c {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1150ms;
+            animation-delay: 1150ms;
+  }
+  .g svg .g-follow-c {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1000ms;
+            animation-delay: 1000ms;
+  }
+  .g svg .g-start-b1,
+  .g svg .g-follow-b1 {
+    stroke-dashoffset: 153.39;
+    stroke-dasharray: 153.39;
+    -webkit-animation: g-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: g-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .g svg .g-start-b2,
+  .g svg .g-follow-b2 {
+    stroke-dashoffset: 214.22;
+    stroke-dasharray: 214.22;
+    -webkit-animation: g-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: g-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .g svg .g-start-b3,
+  .g svg .g-follow-b3 {
+    stroke-dashoffset: 168.49;
+    stroke-dasharray: 168.49;
+    -webkit-animation: g-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: g-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .g svg [class^=g-start-b] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .g svg [class^=g-follow-b] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  
+  @-webkit-keyframes g-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 168.49;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes g-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 168.49;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes g-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 214.22;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes g-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 214.22;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes g-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 153.39;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes g-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 153.39;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes g-a2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 562.66;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes g-a2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 562.66;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes g-a1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 465.83;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes g-a1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 465.83;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .h svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .h svg .h-start-a,
+  .h svg .h-follow-a,
+  .h svg .h-start-c6,
+  .h svg .h-follow-c6 {
+    stroke-dashoffset: 519.32;
+    stroke-dasharray: 519.32;
+    -webkit-animation: h-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: h-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .h svg .h-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .h svg .h-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .h svg .h-start-b1,
+  .h svg .h-follow-b1 {
+    stroke-dashoffset: 312.23;
+    stroke-dasharray: 312.23;
+    -webkit-animation: h-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: h-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .h svg .h-start-b2,
+  .h svg .h-follow-b2,
+  .h svg .h-start-b3,
+  .h svg .h-follow-b3,
+  .h svg .h-start-c1,
+  .h svg .h-follow-c1 {
+    stroke-dashoffset: 156.79;
+    stroke-dasharray: 156.79;
+    -webkit-animation: h-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: h-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .h svg polygon[class^=h-start-b] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .h svg polygon[class^=h-follow-b] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .h svg .h-start-c2,
+  .h svg .h-follow-c2,
+  .h svg .h-start-c3,
+  .h svg .h-follow-c3,
+  .h svg .h-start-c4,
+  .h svg .h-follow-c4 {
+    stroke-dashoffset: 156;
+    stroke-dasharray: 156;
+    -webkit-animation: h-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: h-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .h svg .h-start-c5,
+  .h svg .h-follow-c5 {
+    stroke-dashoffset: 310.07;
+    stroke-dasharray: 310.07;
+    -webkit-animation: h-c5 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: h-c5 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .h svg polygon[class^=h-start-c]:nth-child(-n+6) {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .h svg polygon[class^=h-follow-c]:nth-child(-n+6) {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  .h svg .h-start-c6 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1150ms;
+            animation-delay: 1150ms;
+  }
+  .h svg .h-follow-c6 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1000ms;
+            animation-delay: 1000ms;
+  }
+  
+  @-webkit-keyframes h-c5 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 310.07;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes h-c5 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 310.07;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes h-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 155.06;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes h-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 155.06;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes h-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 156.79;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes h-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 156.79;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes h-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 312.23;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes h-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 312.23;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes h-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 519.32;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes h-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 519.32;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .i svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .i svg .i-start-a,
+  .i svg .i-follow-a {
+    stroke-dashoffset: 259.94;
+    stroke-dasharray: 259.94;
+    -webkit-animation: i-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: i-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .i svg .i-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .i svg .i-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .i svg .i-start-b1,
+  .i svg .i-follow-b1 {
+    stroke-dashoffset: 311.44;
+    stroke-dasharray: 311.44;
+    -webkit-animation: i-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: i-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .i svg .i-start-b2,
+  .i svg .i-follow-b2,
+  .i svg .i-start-c2,
+  .i svg .i-follow-c2 {
+    stroke-dashoffset: 156.04;
+    stroke-dasharray: 156.04;
+    -webkit-animation: i-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: i-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .i svg .i-start-b1,
+  .i svg .i-start-b2 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .i svg .i-follow-b1,
+  .i svg .i-follow-b2 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  .i svg .i-start-c1,
+  .i svg .i-follow-c1 {
+    stroke-dashoffset: 259.93;
+    stroke-dasharray: 259.93;
+    -webkit-animation: i-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: i-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .i svg .i-start-c1,
+  .i svg .i-start-c2 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1150ms;
+            animation-delay: 1150ms;
+  }
+  .i svg .i-follow-c1,
+  .i svg .i-follow-c2 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  
+  @-webkit-keyframes i-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 311.97;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes i-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 311.97;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes i-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 259.93;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes i-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 259.93;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes i-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -156.04;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes i-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -156.04;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes i-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 311.44;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes i-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 311.44;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes i-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 259.94;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes i-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 259.94;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .j svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .j svg .j-start-a,
+  .j svg .j-follow-a,
+  .j svg .j-start-c,
+  .j svg .j-follow-c {
+    stroke-dashoffset: 311.14;
+    stroke-dasharray: 311.14;
+    -webkit-animation: j-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: j-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .j svg .j-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .j svg .j-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .j svg .j-start-c {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1150ms;
+            animation-delay: 1150ms;
+  }
+  .j svg .j-follow-c {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1000ms;
+            animation-delay: 1000ms;
+  }
+  .j svg .j-start-b1,
+  .j svg .j-follow-b1 {
+    stroke-dashoffset: 322.43;
+    stroke-dasharray: 322.43;
+    -webkit-animation: j-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: j-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .j svg .j-start-b2,
+  .j svg .j-follow-b2 {
+    stroke-dashoffset: 150.98;
+    stroke-dasharray: 150.98;
+    -webkit-animation: j-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: j-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .j svg .j-start-b3,
+  .j svg .j-follow-b3 {
+    stroke-dashoffset: 164.57;
+    stroke-dasharray: 164.57;
+    -webkit-animation: j-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: j-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .j svg [class^=j-start-b] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .j svg [class^=j-follow-b] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  
+  @-webkit-keyframes j-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 164.57;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes j-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 164.57;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes j-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 150.98;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes j-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 150.98;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes j-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 322.43;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes j-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 322.43;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes j-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -311.14;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes j-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -311.14;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .k svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .k svg .k-start-a,
+  .k svg .k-follow-a,
+  .k svg .k-start-c6,
+  .k svg .k-follow-c6 {
+    stroke-dashoffset: 508.2;
+    stroke-dasharray: 508.2;
+    -webkit-animation: k-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: k-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .k svg .k-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .k svg .k-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .k svg .k-start-c6 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1250ms;
+            animation-delay: 1250ms;
+  }
+  .k svg .k-follow-c6 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1000ms;
+            animation-delay: 1000ms;
+  }
+  .k svg .k-start-b1,
+  .k svg .k-follow-b1,
+  .k svg .k-start-b2,
+  .k svg .k-follow-b2 {
+    stroke-dashoffset: 224;
+    stroke-dasharray: 224;
+    -webkit-animation: k-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: k-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .k svg .k-start-b3,
+  .k svg .k-follow-b3 {
+    stroke-dashoffset: 311.73;
+    stroke-dasharray: 311.73;
+    -webkit-animation: k-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: k-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .k svg polygon[class*=k-start-b] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .k svg polygon[class*=k-follow-b] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .k svg .k-start-c1,
+  .k svg .k-follow-c1 {
+    stroke-dashoffset: 164.27;
+    stroke-dasharray: 164.27;
+    -webkit-animation: k-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: k-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .k svg .k-start-c2,
+  .k svg .k-follow-c2 {
+    stroke-dashoffset: 164.27;
+    stroke-dasharray: 164.27;
+    -webkit-animation: k-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: k-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .k svg .k-start-c3,
+  .k svg .k-follow-c3 {
+    stroke-dashoffset: 222.97;
+    stroke-dasharray: 222.97;
+    -webkit-animation: k-c3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: k-c3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .k svg .k-start-c4,
+  .k svg .k-follow-c4 {
+    stroke-dashoffset: 148.96;
+    stroke-dasharray: 148.96;
+    -webkit-animation: k-c4 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: k-c4 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .k svg .k-start-c5,
+  .k svg .k-follow-c5 {
+    stroke-dashoffset: 173.4;
+    stroke-dasharray: 173.4;
+    -webkit-animation: k-c5 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: k-c5 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .k svg polygon[class^=k-start-c] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .k svg polygon[class^=k-follow-c] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  
+  @-webkit-keyframes k-c5 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 173.4;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes k-c5 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 173.4;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes k-c4 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 148.96;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes k-c4 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 148.96;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes k-c3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 222.97;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes k-c3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 222.97;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes k-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 156.11;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes k-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 156.11;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes k-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 164.27;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes k-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 164.27;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes k-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 311.73;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes k-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 311.73;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes k-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 224;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes k-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 224;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes k-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 508.2;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes k-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 508.2;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .l svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .l svg .l-start-a,
+  .l svg .l-follow-a {
+    stroke-dashoffset: 363.9;
+    stroke-dasharray: 363.9;
+    -webkit-animation: l-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: l-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .l svg .l-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .l svg .l-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .l svg .l-start-b1,
+  .l svg .l-follow-b1 {
+    stroke-dashoffset: 156.04;
+    stroke-dasharray: 156.04;
+    -webkit-animation: l-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: l-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .l svg .l-start-b2,
+  .l svg .l-follow-b2 {
+    stroke-dashoffset: 311.97;
+    stroke-dasharray: 311.97;
+    -webkit-animation: l-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: l-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .l svg .l-start-b3,
+  .l svg .l-follow-b3 {
+    stroke-dashoffset: 208.14;
+    stroke-dasharray: 208.14;
+    -webkit-animation: l-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: l-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .l svg .l-start-b3,
+  .l svg .l-follow-b3 {
+    stroke-dashoffset: 145.18;
+    stroke-dasharray: 145.18;
+    -webkit-animation: l-b4 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: l-b4 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .l svg polygon[class^=l-start-b] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1000ms;
+            animation-delay: 1000ms;
+  }
+  .l svg polygon[class^=l-follow-b] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 850ms;
+            animation-delay: 850ms;
+  }
+  .l svg .l-start-c,
+  .l svg .l-follow-c {
+    stroke-dashoffset: 363.9;
+    stroke-dasharray: 363.9;
+    -webkit-animation: l-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: l-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .l svg .l-start-c {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1000ms;
+            animation-delay: 1000ms;
+  }
+  .l svg .l-follow-c {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 850ms;
+            animation-delay: 850ms;
+  }
+  
+  @-webkit-keyframes l-b4 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 145.19;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes l-b4 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 145.19;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes l-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 208.14;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes l-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 208.14;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes l-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 311.97;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes l-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 311.97;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes l-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 156.04;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes l-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 156.04;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes l-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 363.9;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes l-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 363.9;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .m svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .m svg .m-start-a,
+  .m svg .m-follow-a {
+    stroke-dashoffset: 678.69;
+    stroke-dasharray: 678.69;
+    -webkit-animation: m-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: m-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .m svg .m-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .m svg .m-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .m svg .m-start-b1,
+  .m svg .m-follow-b1, .m svg .m-start-b2,
+  .m svg .m-follow-b2 {
+    stroke-dashoffset: 156.17;
+    stroke-dasharray: 156.17;
+    -webkit-animation: m-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: m-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .m svg .m-start-b3,
+  .m svg .m-follow-b3 {
+    stroke-dashoffset: 311.62;
+    stroke-dasharray: 311.62;
+    -webkit-animation: m-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: m-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .m svg [class^=m-start-b] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .m svg [class^=m-follow-b] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .m svg .m-start-c1,
+  .m svg .m-follow-c1 {
+    stroke-dashoffset: 205.95;
+    stroke-dasharray: 205.95;
+    -webkit-animation: m-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: m-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .m svg .m-start-c2,
+  .m svg .m-follow-c2 {
+    stroke-dashoffset: 254.47;
+    stroke-dasharray: 254.47;
+    -webkit-animation: m-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: m-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .m svg .m-start-c3,
+  .m svg .m-follow-c3, .m svg .m-start-c8,
+  .m svg .m-follow-c8 {
+    stroke-dashoffset: 156.17;
+    stroke-dasharray: 156.17;
+    -webkit-animation: m-c3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: m-c3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .m svg .m-start-c4,
+  .m svg .m-follow-c4 {
+    stroke-dashoffset: 180.98;
+    stroke-dasharray: 180.98;
+    -webkit-animation: m-c4 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: m-c4 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .m svg .m-start-c5,
+  .m svg .m-follow-c5 {
+    stroke-dashoffset: 221.63;
+    stroke-dasharray: 221.63;
+    -webkit-animation: m-c5 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: m-c5 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .m svg .m-start-c6,
+  .m svg .m-follow-c6 {
+    stroke-dashoffset: 130.13;
+    stroke-dasharray: 130.13;
+    -webkit-animation: m-c6 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: m-c6 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .m svg .m-start-c7,
+  .m svg .m-follow-c7 {
+    stroke-dashoffset: 237.66;
+    stroke-dasharray: 237.66;
+    -webkit-animation: m-c7 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: m-c7 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .m svg .m-start-c9,
+  .m svg .m-follow-c9 {
+    stroke-dashoffset: 311.14;
+    stroke-dasharray: 311.14;
+    -webkit-animation: m-c9 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: m-c9 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .m svg [class^=m-start-c] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .m svg [class^=m-follow-c] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  .m svg .m-start-d,
+  .m svg .m-follow-d {
+    stroke-dashoffset: 678.44;
+    stroke-dasharray: 678.44;
+    -webkit-animation: m-d cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: m-d cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .m svg .m-start-d {
+    -webkit-animation-duration: 900ms;
+            animation-duration: 900ms;
+    -webkit-animation-delay: 1150ms;
+            animation-delay: 1150ms;
+  }
+  .m svg .m-follow-d {
+    -webkit-animation-duration: 750ms;
+            animation-duration: 750ms;
+    -webkit-animation-delay: 1000ms;
+            animation-delay: 1000ms;
+  }
+  
+  @-webkit-keyframes m-d {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 678.44;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes m-d {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 678.44;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes m-c9 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 311.14;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes m-c9 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 311.14;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes m-c7 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 237.67;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes m-c7 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 237.67;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes m-c6 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 130.13;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes m-c6 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 130.13;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes m-c5 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 212.63;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes m-c5 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 212.63;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes m-c4 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 180.98;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes m-c4 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 180.98;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes m-c3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 156.16;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes m-c3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 156.16;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes m-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 254.47;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes m-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 254.47;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes m-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 205.95;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes m-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 205.95;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes m-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 311.62;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes m-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 311.62;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes m-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 156.17;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes m-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 156.17;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes m-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -678.69;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes m-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -678.69;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .n svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .n svg .n-start-a,
+  .n svg .n-follow-a {
+    stroke-dashoffset: 546.7;
+    stroke-dasharray: 546.7;
+    -webkit-animation: n-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: n-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .n svg .n-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .n svg .n-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .n svg .n-start-b1,
+  .n svg .n-follow-b1,
+  .n svg .n-start-b3,
+  .n svg .n-follow-b3,
+  .n svg .n-start-c2,
+  .n svg .n-follow-c2 {
+    stroke-dashoffset: 166.43;
+    stroke-dasharray: 166.43;
+    -webkit-animation: n-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: n-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .n svg .n-start-b2,
+  .n svg .n-follow-b2 {
+    stroke-dashoffset: 323.19;
+    stroke-dasharray: 323.19;
+    -webkit-animation: n-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: n-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .n svg polygon[class^=n-start-b] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .n svg polygon[class^=n-follow-b] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  .n svg .n-start-c1,
+  .n svg .n-follow-c1 {
+    stroke-dashoffset: 223.37;
+    stroke-dasharray: 223.37;
+    -webkit-animation: n-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: n-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .n svg .n-start-c3,
+  .n svg .n-follow-c3 {
+    stroke-dashoffset: 243.48;
+    stroke-dasharray: 243.48;
+    -webkit-animation: n-c3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: n-c3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .n svg .n-start-c4,
+  .n svg .n-follow-c4 {
+    stroke-dashoffset: 167.29;
+    stroke-dasharray: 167.29;
+    -webkit-animation: n-c4 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: n-c4 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .n svg polygon[class^=n-start-c] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1250ms;
+            animation-delay: 1250ms;
+  }
+  .n svg polygon[class^=n-follow-c] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1000ms;
+            animation-delay: 1000ms;
+  }
+  
+  @-webkit-keyframes n-c3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 243.48;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes n-c3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 243.48;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes n-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 223.37;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes n-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 223.37;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes n-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 166.43;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes n-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 166.43;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes n-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 546.7;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes n-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 546.7;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .o svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .o svg .o-start-a,
+  .o svg .o-follow-a,
+  .o svg .o-start-d,
+  .o svg .o-follow-d {
+    stroke-dashoffset: 539.15;
+    stroke-dasharray: 539.15;
+    -webkit-animation: o-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: o-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .o svg .o-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .o svg .o-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .o svg .o-start-b,
+  .o svg .o-follow-b {
+    stroke-dashoffset: 454.11;
+    stroke-dasharray: 454.11;
+    -webkit-animation: o-b cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: o-b cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .o svg .o-start-c,
+  .o svg .o-follow-c {
+    stroke-dashoffset: 328.43;
+    stroke-dasharray: 328.43;
+    -webkit-animation: o-c cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: o-c cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .o svg .o-start-b,
+  .o svg .o-start-c,
+  .o svg .o-start-d {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .o svg .o-follow-b,
+  .o svg .o-follow-c,
+  .o svg .o-follow-d {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  
+  @-webkit-keyframes o-c {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 328.43;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes o-c {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 328.43;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes o-b {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 454.11;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes o-b {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 454.11;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes o-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -539.15;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes o-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -539.15;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .p svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .p svg .p-start-a,
+  .p svg .p-follow-a,
+  .p svg .p-start-d,
+  .p svg .p-follow-d {
+    stroke-dashoffset: 431.59;
+    stroke-dasharray: 431.59;
+    -webkit-animation: p-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: p-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .p svg .p-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .p svg .p-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .p svg .p-start-d {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1150ms;
+            animation-delay: 1150ms;
+  }
+  .p svg .p-follow-d {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1000ms;
+            animation-delay: 1000ms;
+  }
+  .p svg .p-start-b1,
+  .p svg .p-follow-b1 {
+    stroke-dashoffset: 468.9;
+    stroke-dasharray: 468.9;
+    -webkit-animation: p-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: p-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .p svg .p-start-b2,
+  .p svg .p-follow-b2 {
+    stroke-dashoffset: 311.78;
+    stroke-dasharray: 311.78;
+    -webkit-animation: p-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: p-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .p svg .p-start-b1,
+  .p svg .p-start-b2 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .p svg .p-follow-b1,
+  .p svg .p-follow-b2 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .p svg .p-start-c1,
+  .p svg .p-follow-c1 {
+    stroke-dashoffset: 175.96;
+    stroke-dasharray: 175.96;
+    -webkit-animation: p-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: p-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .p svg .p-start-c2,
+  .p svg .p-follow-c2 {
+    stroke-dashoffset: 155.81;
+    stroke-dasharray: 155.81;
+    -webkit-animation: p-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: p-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .p svg .p-start-c1,
+  .p svg .p-start-c2 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .p svg .p-follow-c1,
+  .p svg .p-follow-c2 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  
+  @-webkit-keyframes p-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 155.81;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes p-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 155.81;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes p-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 175.96;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes p-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 175.96;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes p-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 311.78;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes p-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 311.78;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes p-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 468.9;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes p-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 468.9;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes p-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -431.59;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes p-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -431.59;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .q svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .q svg .q-start-a,
+  .q svg .q-follow-a,
+  .q svg .q-start-d,
+  .q svg .q-follow-d {
+    stroke-dashoffset: 540.53;
+    stroke-dasharray: 540.53;
+    -webkit-animation: q-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: q-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .q svg .q-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .q svg .q-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .q svg .q-start-d {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1150ms;
+            animation-delay: 1150ms;
+  }
+  .q svg .q-follow-d {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1000ms;
+            animation-delay: 1000ms;
+  }
+  .q svg .q-start-b,
+  .q svg .q-follow-b {
+    stroke-dashoffset: 472.28;
+    stroke-dasharray: 472.28;
+    -webkit-animation: q-b cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: q-b cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .q svg .q-start-b {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .q svg .q-follow-b {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .q svg .q-start-c,
+  .q svg .q-follow-c {
+    stroke-dashoffset: 343.62;
+    stroke-dasharray: 343.62;
+    -webkit-animation: q-c cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: q-c cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .q svg .q-start-c {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .q svg .q-follow-c {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  
+  @-webkit-keyframes q-c {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 343.62;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes q-c {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 343.62;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes q-b {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 472.27;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes q-b {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 472.27;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes q-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -540.53;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes q-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -540.53;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .r svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .r svg .r-start-a,
+  .r svg .r-follow-a,
+  .r svg .r-start-d,
+  .r svg .r-follow-d {
+    stroke-dashoffset: 495.82;
+    stroke-dasharray: 495.82;
+    -webkit-animation: r-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: r-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .r svg .r-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .r svg .r-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .r svg .r-start-d {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1150ms;
+            animation-delay: 1150ms;
+  }
+  .r svg .r-follow-d {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1000ms;
+            animation-delay: 1000ms;
+  }
+  .r svg .r-start-b1,
+  .r svg .r-follow-b1 {
+    stroke-dashoffset: 468.9;
+    stroke-dasharray: 468.9;
+    -webkit-animation: r-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: r-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .r svg .r-start-b2,
+  .r svg .r-follow-b2 {
+    stroke-dashoffset: 311.78;
+    stroke-dasharray: 311.78;
+    -webkit-animation: r-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: r-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .r svg .r-start-b1,
+  .r svg .r-start-b2 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .r svg .r-follow-b1,
+  .r svg .r-follow-b2 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .r svg .r-start-c1,
+  .r svg .r-follow-c1,
+  .r svg .r-start-c2,
+  .r svg .r-follow-c2 {
+    stroke-dashoffset: 167.34;
+    stroke-dasharray: 167.34;
+    -webkit-animation: r-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: r-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .r svg .r-start-c3,
+  .r svg .r-follow-c3 {
+    stroke-dashoffset: 140.16;
+    stroke-dasharray: 140.16;
+    -webkit-animation: r-c3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: r-c3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .r svg .r-start-c4,
+  .r svg .r-follow-c4 {
+    stroke-dashoffset: 175.83;
+    stroke-dasharray: 175.83;
+    -webkit-animation: r-c4 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: r-c4 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .r svg [class^=r-start-c] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .r svg [class^=r-follow-c] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  
+  @-webkit-keyframes r-c4 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 175.83;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes r-c4 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 175.83;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes r-c3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 140.16;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes r-c3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 140.16;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes r-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 167.34;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes r-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 167.34;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes r-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 311.78;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes r-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 311.78;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes r-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 468.9;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes r-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 468.9;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes r-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -495.82;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes r-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -495.82;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .s svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .s svg .s-start-a,
+  .s svg .s-follow-a,
+  .s svg .s-start-d,
+  .s svg .s-follow-d {
+    stroke-dashoffset: 411.74;
+    stroke-dasharray: 411.74;
+    -webkit-animation: s-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: s-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .s svg .s-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .s svg .s-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .s svg .s-start-d {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1150ms;
+            animation-delay: 1150ms;
+  }
+  .s svg .s-follow-d {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1000ms;
+            animation-delay: 1000ms;
+  }
+  .s svg .s-start-b1,
+  .s svg .s-follow-b1 {
+    stroke-dashoffset: 494.45;
+    stroke-dasharray: 494.45;
+    -webkit-animation: s-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: s-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .s svg .s-start-b2,
+  .s svg .s-follow-b2,
+  .s svg .s-start-c,
+  .s svg .s-follow-c {
+    stroke-dashoffset: 177.77;
+    stroke-dasharray: 177.77;
+    -webkit-animation: s-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: s-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .s svg .s-start-b1,
+  .s svg .s-start-b2 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .s svg .s-follow-b1,
+  .s svg .s-follow-b2 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .s svg .s-start-c {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .s svg .s-follow-c {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  
+  @-webkit-keyframes s-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 177.77;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes s-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 177.77;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes s-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 494.45;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes s-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 494.45;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes s-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 411.47;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes s-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 411.47;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .t svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .t svg .t-start-c2,
+  .t svg .t-follow-c2 {
+    stroke-dashoffset: 364.77;
+    stroke-dasharray: 364.77;
+    -webkit-animation: t-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: t-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .t svg .t-start-c1,
+  .t svg .t-follow-c1 {
+    stroke-dashoffset: 198;
+    stroke-dasharray: 198;
+    -webkit-animation: t-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: t-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .t svg .t-start-c1,
+  .t svg .t-start-c2 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1350ms;
+            animation-delay: 1350ms;
+  }
+  .t svg .t-follow-c1,
+  .t svg .t-follow-c2 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1200ms;
+            animation-delay: 1200ms;
+  }
+  .t svg .t-start-b3,
+  .t svg .t-follow-b3 {
+    stroke-dashoffset: 196;
+    stroke-dasharray: 196;
+    -webkit-animation: t-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: t-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .t svg .t-start-b2,
+  .t svg .t-follow-b2 {
+    stroke-dashoffset: 192;
+    stroke-dasharray: 192;
+    -webkit-animation: t-b2 ease-out forwards;
+            animation: t-b2 ease-out forwards;
+  }
+  .t svg .t-start-b1,
+  .t svg .t-follow-b1 {
+    stroke-dashoffset: 380;
+    stroke-dasharray: 380;
+    -webkit-animation: t-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: t-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .t svg polygon[class^=t-start-b] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 850ms;
+            animation-delay: 850ms;
+  }
+  .t svg polygon[class^=t-follow-b] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 700ms;
+            animation-delay: 700ms;
+  }
+  .t svg .t-start-a,
+  .t svg .t-follow-a {
+    stroke-dashoffset: 363.65;
+    stroke-dasharray: 363.65;
+    -webkit-animation: t-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: t-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .t svg .t-start-a {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .t svg .t-follow-a {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  
+  @-webkit-keyframes svg-fill {
+    0% {
+      fill: RGBA(16, 25, 40, 0);
+    }
+    100% {
+      fill: RGBA(16, 25, 40, 1);
+    }
+  }
+  
+  @keyframes svg-fill {
+    0% {
+      fill: RGBA(16, 25, 40, 0);
+    }
+    100% {
+      fill: RGBA(16, 25, 40, 1);
+    }
+  }
+  @-webkit-keyframes t-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 364.77;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes t-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 364.77;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes t-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 198;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes t-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 198;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes t-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 196;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes t-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 196;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes t-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 192;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes t-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 192;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes t-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 380;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes t-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 380;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes t-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 363.65;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes t-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 363.65;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .u svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .u svg .u-start-a,
+  .u svg .u-follow-a,
+  .u svg .u-start-d,
+  .u svg .u-follow-d {
+    stroke-dashoffset: 474.83;
+    stroke-dasharray: 474.83;
+    -webkit-animation: u-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: u-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .u svg .u-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .u svg .u-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .u svg .u-start-d {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1150ms;
+            animation-delay: 1150ms;
+  }
+  .u svg .u-follow-d {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1000ms;
+            animation-delay: 1000ms;
+  }
+  .u svg .u-start-b1,
+  .u svg .u-follow-b1 {
+    stroke-dashoffset: 279.34;
+    stroke-dasharray: 279.34;
+    -webkit-animation: u-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: u-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .u svg .u-start-b2,
+  .u svg .u-follow-b2,
+  .u svg .u-start-b3,
+  .u svg .u-follow-b3 {
+    stroke-dashoffset: 155.68;
+    stroke-dasharray: 155.68;
+    -webkit-animation: u-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: u-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .u svg [class^=u-start-b] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .u svg [class^=u-follow-b] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .u svg .u-start-c,
+  .u svg .u-follow-c {
+    stroke-dashoffset: 373.35;
+    stroke-dasharray: 373.35;
+    -webkit-animation: u-c cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: u-c cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .u svg .u-start-c {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .u svg .u-follow-c {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  
+  @-webkit-keyframes u-c {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 373.35;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes u-c {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 373.35;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes u-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 155.68;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes u-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 155.68;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes u-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 279.34;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes u-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 279.34;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes u-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -474.83;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes u-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -474.83;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .v svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .v svg .v-start-a,
+  .v svg .v-follow-a,
+  .v svg .v-start-c4,
+  .v svg .v-follow-c4 {
+    stroke-dashoffset: 447.93;
+    stroke-dasharray: 447.93;
+    -webkit-animation: v-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: v-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .v svg .v-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .v svg .v-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .v svg .v-start-c4 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1250ms;
+            animation-delay: 1250ms;
+  }
+  .v svg .v-follow-c4 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1000ms;
+            animation-delay: 1000ms;
+  }
+  .v svg .v-start-b1,
+  .v svg .v-follow-b1 {
+    stroke-dashoffset: 283.81;
+    stroke-dasharray: 283.81;
+    -webkit-animation: v-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: v-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .v svg .v-start-b2,
+  .v svg .v-follow-b2,
+  .v svg .v-start-b3,
+  .v svg .v-follow-b3 {
+    stroke-dashoffset: 156.17;
+    stroke-dasharray: 156.17;
+    -webkit-animation: v-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: v-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .v svg .v-start-b1,
+  .v svg .v-start-b2,
+  .v svg .v-start-b3 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .v svg .v-follow-b1,
+  .v svg .v-follow-b2,
+  .v svg .v-start-b3 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .v svg .v-start-c1,
+  .v svg .v-follow-c1 {
+    stroke-dashoffset: 291.13;
+    stroke-dasharray: 291.13;
+    -webkit-animation: v-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: v-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .v svg .v-start-c2,
+  .v svg .v-follow-c2 {
+    stroke-dashoffset: 241.07;
+    stroke-dasharray: 241.07;
+    -webkit-animation: v-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: v-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .v svg .v-start-c3,
+  .v svg .v-follow-c3 {
+    stroke-dashoffset: 365.65;
+    stroke-dasharray: 365.65;
+    -webkit-animation: v-c3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: v-c3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .v svg .v-start-c1,
+  .v svg .v-start-c2 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .v svg .v-follow-c1,
+  .v svg .v-follow-c2 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  
+  @-webkit-keyframes v-c3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 365.65;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes v-c3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 365.65;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes v-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 241.07;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes v-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 241.07;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes v-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 291.13;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes v-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 291.13;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes v-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 156.17;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes v-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 156.17;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes v-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 283.81;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes v-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 283.81;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes v-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 447.93;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes v-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 447.93;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .w svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .w svg .w-start-a,
+  .w svg .w-follow-a {
+    stroke-dashoffset: 736.54;
+    stroke-dasharray: 736.54;
+    -webkit-animation: w-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: w-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .w svg .w-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .w svg .w-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .w svg .w-start-b1,
+  .w svg .w-follow-b1 {
+    stroke-dashoffset: 291.41;
+    stroke-dasharray: 291.41;
+    -webkit-animation: w-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: w-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .w svg .w-start-b2,
+  .w svg .w-follow-b2,
+  .w svg .w-start-b4,
+  .w svg .w-follow-b4 {
+    stroke-dashoffset: 157.1;
+    stroke-dasharray: 157.1;
+    -webkit-animation: w-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: w-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .w svg .w-start-b3,
+  .w svg .w-follow-b3 {
+    stroke-dashoffset: 144.12;
+    stroke-dasharray: 144.12;
+    -webkit-animation: w-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: w-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .w svg polygon[class^=w-start-b] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .w svg polygon[class^=w-follow-b] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .w svg .w-start-c1,
+  .w svg .w-follow-c1 {
+    stroke-dashoffset: 265.42;
+    stroke-dasharray: 265.42;
+    -webkit-animation: w-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: w-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .w svg .w-start-c2,
+  .w svg .w-follow-c2 {
+    stroke-dashoffset: 244.29;
+    stroke-dasharray: 244.29;
+    -webkit-animation: w-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: w-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .w svg .w-start-c3,
+  .w svg .w-follow-c3 {
+    stroke-dashoffset: 266.94;
+    stroke-dasharray: 266.94;
+    -webkit-animation: w-c3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: w-c3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .w svg .w-start-c4,
+  .w svg .w-follow-c4 {
+    stroke-dashoffset: 246.95;
+    stroke-dasharray: 246.95;
+    -webkit-animation: w-c4 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: w-c4 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .w svg .w-start-c5,
+  .w svg .w-follow-c5 {
+    stroke-dashoffset: 156.35;
+    stroke-dasharray: 156.35;
+    -webkit-animation: w-c5 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: w-c5 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .w svg .w-start-c6,
+  .w svg .w-follow-c6 {
+    stroke-dashoffset: 162.13;
+    stroke-dasharray: 162.13;
+    -webkit-animation: w-c6 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: w-c6 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .w svg .w-start-c7,
+  .w svg .w-follow-c7 {
+    stroke-dashoffset: 331.9;
+    stroke-dasharray: 331.9;
+    -webkit-animation: w-c7 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: w-c7 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .w svg .w-start-c8,
+  .w svg .w-follow-c8 {
+    stroke-dashoffset: 736.54;
+    stroke-dasharray: 736.54;
+    -webkit-animation: w-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: w-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .w svg polygon[class^=w-start-c] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+  }
+  .w svg polygon[class^=w-follow-c] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+  }
+  .w svg .w-start-c1 {
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .w svg .w-follow-c1 {
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  .w svg .w-start-c2 {
+    -webkit-animation-delay: 1100ms;
+            animation-delay: 1100ms;
+  }
+  .w svg .w-follow-c2 {
+    -webkit-animation-delay: 950ms;
+            animation-delay: 950ms;
+  }
+  .w svg .w-start-c3 {
+    -webkit-animation-delay: 1300ms;
+            animation-delay: 1300ms;
+  }
+  .w svg .w-follow-c3 {
+    -webkit-animation-delay: 1150ms;
+            animation-delay: 1150ms;
+  }
+  .w svg .w-start-c4,
+  .w svg .w-start-c5,
+  .w svg .w-start-c6,
+  .w svg .w-start-c7,
+  .w svg .w-start-c8 {
+    -webkit-animation-delay: 1500ms;
+            animation-delay: 1500ms;
+  }
+  .w svg .w-follow-c4,
+  .w svg .w-follow-c5,
+  .w svg .w-follow-c6,
+  .w svg .w-follow-c7,
+  .w svg .w-follow-c8 {
+    -webkit-animation-delay: 1350ms;
+            animation-delay: 1350ms;
+  }
+  
+  @-webkit-keyframes w-c7 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 331.9;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes w-c7 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 331.9;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes w-c6 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 162.13;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes w-c6 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 162.13;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes w-c5 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 156.34;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes w-c5 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 156.34;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes w-c4 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 246.94;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes w-c4 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 246.94;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes w-c3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 266.94;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes w-c3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 266.94;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes w-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 244.29;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes w-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 244.29;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes w-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 265.42;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes w-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 265.42;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes w-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 144.12;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes w-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 144.12;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes w-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 157.1;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes w-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 157.1;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes w-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 291.41;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes w-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 291.41;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes w-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 736.54;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes w-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 736.54;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .x svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .x svg .x-start-a,
+  .x svg .x-follow-a,
+  .x svg .x-start-c6,
+  .x svg .x-follow-c6 {
+    stroke-dashoffset: 502.93;
+    stroke-dasharray: 502.93;
+    -webkit-animation: x-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: x-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .x svg .x-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .x svg .x-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .x svg .x-start-c6 {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1250ms;
+            animation-delay: 1250ms;
+  }
+  .x svg .x-follow-c6 {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1000ms;
+            animation-delay: 1000ms;
+  }
+  .x svg .x-start-b1,
+  .x svg .x-follow-b1 {
+    stroke-dashoffset: 339.36;
+    stroke-dasharray: 339.36;
+    -webkit-animation: x-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: x-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .x svg .x-start-b2,
+  .x svg .x-follow-b2,
+  .x svg .x-start-b3,
+  .x svg .x-follow-b3,
+  .x svg .x-start-c5,
+  .x svg .x-follow-c5 {
+    stroke-dashoffset: 155.51;
+    stroke-dasharray: 155.51;
+    -webkit-animation: x-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: x-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .x svg polygon[class^=x-start-b] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .x svg polygon[class^=x-follow-b] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .x svg .x-start-c1,
+  .x svg .x-follow-c1 {
+    stroke-dashoffset: 206.06;
+    stroke-dasharray: 206.06;
+    -webkit-animation: x-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: x-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .x svg .x-start-c2,
+  .x svg .x-follow-c2 {
+    stroke-dashoffset: 193.13;
+    stroke-dasharray: 193.13;
+    -webkit-animation: x-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: x-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .x svg .x-start-c3,
+  .x svg .x-follow-c3 {
+    stroke-dashoffset: 162.95;
+    stroke-dasharray: 162.95;
+    -webkit-animation: x-c3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: x-c3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .x svg .x-start-c4,
+  .x svg .x-follow-c4 {
+    stroke-dashoffset: 154.45;
+    stroke-dasharray: 154.45;
+    -webkit-animation: x-c4 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: x-c4 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .x svg polygon[class^=x-start-c] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .x svg polygon[class^=x-follow-c] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  
+  @-webkit-keyframes x-c4 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 154.45;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes x-c4 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 154.45;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes x-c3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 162.95;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes x-c3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 162.95;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes x-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 193.13;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes x-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 193.13;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes x-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 206.06;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes x-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 206.06;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes x-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 155.51;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes x-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 155.51;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes x-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 339.36;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes x-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 339.36;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes x-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 502.93;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes x-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 502.93;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .y svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .y svg .y-start-a,
+  .y svg .y-follow-a,
+  .y svg .y-start-d,
+  .y svg .y-follow-d {
+    stroke-dashoffset: 367.48;
+    stroke-dasharray: 367.48;
+    -webkit-animation: y-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: y-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .y svg .y-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .y svg .y-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .y svg .y-start-d {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1150ms;
+            animation-delay: 1150ms;
+  }
+  .y svg .y-follow-d {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1000ms;
+            animation-delay: 1000ms;
+  }
+  .y svg .y-start-b1,
+  .y svg .y-follow-b1 {
+    stroke-dashoffset: 142.02;
+    stroke-dasharray: 142.02;
+    -webkit-animation: y-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: y-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .y svg .y-start-b2,
+  .y svg .y-follow-b2 {
+    stroke-dashoffset: 147.87;
+    stroke-dasharray: 147.87;
+    -webkit-animation: y-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: y-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .y svg .y-start-b3,
+  .y svg .y-follow-b3 {
+    stroke-dashoffset: 296.23;
+    stroke-dasharray: 296.23;
+    -webkit-animation: y-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: y-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .y svg polygon[class^=y-start-b] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .y svg polygon[class^=y-start-b] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .y svg .y-start-c1,
+  .y svg .y-follow-c1 {
+    stroke-dashoffset: 208.93;
+    stroke-dasharray: 208.93;
+    -webkit-animation: y-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: y-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .y svg .y-start-c2,
+  .y svg .y-follow-c2 {
+    stroke-dashoffset: 180.53;
+    stroke-dasharray: 180.53;
+    -webkit-animation: y-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: y-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .y svg .y-start-c3,
+  .y svg .y-follow-c3 {
+    stroke-dashoffset: 338.39;
+    stroke-dasharray: 338.39;
+    -webkit-animation: y-c3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: y-c3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .y svg polygon[class^=y-start-c] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .y svg polygon[class^=y-start-c] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  
+  @-webkit-keyframes y-c3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 338.39;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes y-c3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 338.39;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes y-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 180.53;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes y-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 180.53;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes y-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 208.93;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes y-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 208.93;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes y-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 296.23;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes y-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 296.23;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes y-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 147.87;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes y-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 147.87;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes y-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 142.02;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes y-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 142.02;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes y-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 367.48;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes y-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 367.48;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .z svg {
+    -webkit-animation: svg-fill 1000ms ease-in-out 1750ms both;
+            animation: svg-fill 1000ms ease-in-out 1750ms both;
+  }
+  .z svg .z-start-a,
+  .z svg .z-follow-a,
+  .z svg .z-start-d,
+  .z svg .z-follow-d {
+    stroke-dashoffset: 460.42;
+    stroke-dasharray: 460.42;
+    -webkit-animation: z-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: z-a cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .z svg .z-start-a {
+    -webkit-animation-duration: 1800ms;
+            animation-duration: 1800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .z svg .z-follow-a {
+    -webkit-animation-duration: 1500ms;
+            animation-duration: 1500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .z svg .z-start-d {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 1250ms;
+            animation-delay: 1250ms;
+  }
+  .z svg .z-follow-d {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 1000ms;
+            animation-delay: 1000ms;
+  }
+  .z svg .z-start-b1,
+  .z svg .z-follow-b1 {
+    stroke-dashoffset: 251.6;
+    stroke-dasharray: 251.6;
+    -webkit-animation: z-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: z-b1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .z svg .z-start-b2,
+  .z svg .z-follow-b2 {
+    stroke-dashoffset: 142.86;
+    stroke-dasharray: 142.86;
+    -webkit-animation: z-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: z-b2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .z svg .z-start-b3,
+  .z svg .z-follow-b3 {
+    stroke-dashoffset: 393.52;
+    stroke-dasharray: 393.52;
+    -webkit-animation: z-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: z-b3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .z svg polygon[class^=z-start-b] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 650ms;
+            animation-delay: 650ms;
+  }
+  .z svg polygon[class^=z-follow-b] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 500ms;
+            animation-delay: 500ms;
+  }
+  .z svg .z-start-c1,
+  .z svg .z-follow-c1 {
+    stroke-dashoffset: 365.81;
+    stroke-dasharray: 365.81;
+    -webkit-animation: z-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: z-c1 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .z svg .z-start-c2,
+  .z svg .z-follow-c2 {
+    stroke-dashoffset: 155.94;
+    stroke-dasharray: 155.94;
+    -webkit-animation: z-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: z-c2 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .z svg .z-start-c3,
+  .z svg .z-follow-c3 {
+    stroke-dashoffset: 235.63;
+    stroke-dasharray: 235.63;
+    -webkit-animation: z-c3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+            animation: z-c3 cubic-bezier(0, 0.47, 0.1, 0.99) forwards;
+  }
+  .z svg polygon[class^=z-start-c] {
+    -webkit-animation-duration: 800ms;
+            animation-duration: 800ms;
+    -webkit-animation-delay: 900ms;
+            animation-delay: 900ms;
+  }
+  .z svg polygon[class^=z-follow-c] {
+    -webkit-animation-duration: 500ms;
+            animation-duration: 500ms;
+    -webkit-animation-delay: 750ms;
+            animation-delay: 750ms;
+  }
+  
+  @-webkit-keyframes z-c3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 235.63;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes z-c3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 235.63;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes z-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 155.94;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes z-c2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 155.94;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes z-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 365.81;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes z-c1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 365.81;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes z-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 393.52;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes z-b3 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 393.52;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes z-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 142.86;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes z-b2 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 142.86;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes z-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 251.6;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes z-b1 {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: 251.6;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @-webkit-keyframes z-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -460.42;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes z-a {
+    0% {
+      opacity: 0;
+      stroke-dashoffset: -460.42;
+    }
+    1% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      stroke-dashoffset: 0;
+    }
+  }
+  .start *,
+  .follow * {
+    opacity: 0;
+  }
+  
+  body {
+    background: #354B5B;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: flex-start;
+    align-content: space-around;
+    justify-content: space-around;
+    width: 100%;
+  }
+  
+  .svg-container {
+    width: 250px;
+  }
+  .svg-container svg {
+    stroke-width: 2;
+    fill-rule: evenodd;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    background: #101928;
+    fill: RGBA(16, 25, 40, 0);
+  }
